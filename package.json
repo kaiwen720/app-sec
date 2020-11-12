@@ -1,0 +1,6 @@
+{
+  "name": "AppSec-Demo",
+  "dependencies": {
+    "phantom-html-to-pdf": "0.5"
+  }
+}
