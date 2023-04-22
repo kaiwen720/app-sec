@@ -2,7 +2,7 @@
   "name": "AppSec-Demo",
   "dependencies": {
     "phantom-html-to-pdf": "0.6.1",
-    "snyk": "^1.428.0"
+    "snyk": "^1.1143.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
